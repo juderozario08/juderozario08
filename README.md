@@ -1,4 +1,4 @@
-### Hi, I'm Jude! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="10" height="10" />
+### Hi, I'm Jude! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 I am a passionate Computer Science Student with a love for designing new and original programs and applications. My journey in the world of Computer Science has been an exciting exploration of creativity and problem-solving.
 
