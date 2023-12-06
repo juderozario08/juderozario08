@@ -13,7 +13,6 @@ I am a passionate Computer Science Student with a love for designing new and ori
   <li>👾 Explore my GitHub repositories to discover a collection of projects that showcase my skills and passion</li>
   <li>📚 I believe in the power of continuous learning. My GitHub is not just a portfolio but a living document of my journey</li>
   <li>🤝 I'm always open to collaboration and welcome opportunities to work with like-minded individuals. If you have a project or idea that aligns with my interests, let's connect and explore the possibilities together!</li>
-  <li>📫 Contact: Feel free to reach out to me via juderzro08@gmail.com</li>
 </ul>
 
 Let's code the future together! 🌟
