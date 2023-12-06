@@ -3,28 +3,17 @@
 I am a passionate Computer Science Student with a love for designing new and original programs and applications. My journey in the world of Computer Science has been an exciting exploration of creativity and problem-solving.
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>🧠 I'm currently learning and expanding my knowledge on Swift, SQL, ReactJS, Azure, AWS, Dot NetFramework, HTML, CSS and Javascript</li>
+  <li>🛠️ I'm interested in Software Development, specifically web and app development for all platforms</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" />Most Proficient At: Python Scripting and OOP in Java</li>
+  <li>👾 Explore my GitHub repositories to discover a collection of projects that showcase my skills and passion</li>
+  <li>📚 I believe in the power of continuous learning. My GitHub is not just a portfolio but a living document of my journey</li>
+  <li>🤝 I'm always open to collaboration and welcome opportunities to work with like-minded individuals. If you have a project or idea that aligns with my interests, let's connect and explore the possibilities together!</li>
+  <li>📫 Contact: Feel free to reach out to me via juderzro08@gmail.com</li>
 </ul>
-🛠️ Skills:
-Proficient in Python, Java, C and Bash, I bring a diverse set of technical abilities to the table. I am committed to staying ahead of the curve and mastering the tools that power modern development. I am currently learning SQL, HTML, CSS and Javascript and exploring different frameworks to expand my skills.
-
-🛠️ Projects:
-Explore my GitHub repositories to discover a collection of projects that showcase my skills and passion.
-
-📚 Learning Journey:
-I believe in the power of continuous learning. My GitHub is not just a portfolio but a living document of my journey.
-
-🤝 Collaboration:
-I'm always open to collaboration and welcome opportunities to work with like-minded individuals. If you have a project or idea that aligns with my interests, let's connect and explore the possibilities together!
-
-📫 Contact:
-Feel free to reach out to me via juderzro08@gmail.com. Whether discussing a project, sharing insights, or having a tech-related chat, I'm excited to connect with fellow enthusiasts.
 
 Let's code the future together! 🌟
+
 <!--
 **juderozario08/juderozario08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
