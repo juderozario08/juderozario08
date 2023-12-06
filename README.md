@@ -1,4 +1,5 @@
-### Hi, I'm Jude! 👋
+### Hi, I'm Jude! ![Waving Hand](https://github.com/juderozario08/juderozario08/assets/102776826/39849af2-beda-4796-bec8-fb1551aeeccb)
+
 
 I am a passionate Computer Science Student with a love for designing new and original programs and applications. My journey in the world of Computer Science has been an exciting exploration of creativity and problem-solving.
 
