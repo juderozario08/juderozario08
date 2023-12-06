@@ -3,26 +3,7 @@
 I am a passionate Computer Science Student with a love for designing new and original programs and applications. My journey in the world of Computer Science has been an exciting exploration of creativity and problem-solving.
 
 📫 Reach out to me!
-<head>
-  <title>GitHub Button</title>
-  <style>
-    .github-button {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #000; /* GitHub black color */
-      color: #fff; /* Text color */
-      text-decoration: none;
-      font-family: Arial, sans-serif;
-      font-size: 16px;
-      border-radius: 5px;
-      border: none;
-      cursor: pointer;
-    }
-    .github-button:hover {
-      background-color: #333; /* Darker black on hover */
-    }
-  </style>
-</head>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jude-a-rozario)
 <ul>
   <li>🧠 I'm currently learning and expanding my knowledge on Swift, SQL, ReactJS, Azure, AWS, Dot NetFramework, HTML, CSS and Javascript</li>
   <li>🛠️ I'm interested in Software Development, specifically web and app development for all platforms</li>
