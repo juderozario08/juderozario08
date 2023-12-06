@@ -6,6 +6,33 @@ I am a passionate Computer Science Student with a love for designing new and ori
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jude-a-rozario)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juderzro08@gmail.com)
+<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .linkedin-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #0077B5;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    .linkedin-button:hover {
+      background-color: #005F8B;
+    }
+  </style>
+</head>
+<body>
+  <a href="https://www.linkedin.com/in/jude-a-rozario" target="_blank" class="linkedin-button">
+    <i class="fab fa-linkedin"></i> LinkedIn</a>
+</body>
+</html>
 <ul>
   <li>🧠 I'm currently learning and expanding my knowledge on Swift, SQL, ReactJS, Azure, AWS, Dot NetFramework, HTML, CSS and Javascript</li>
   <li>🛠️ I'm interested in Software Development, specifically web and app development for all platforms</li>
