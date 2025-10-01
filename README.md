@@ -7,7 +7,7 @@ I am a passionate Computer Science Student with a love for designing new and ori
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jude-a-rozario)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juderzro08@gmail.com)
 <ul>
-  <li>🧠 I'm currently learning and expanding my knowledge on SQL, ReactJS, AWS, Dot NetFramework, HTML, CSS, GoLang, Rust, Haskell, Elixir, and Javascript</li>
+  <li>🧠 I'm currently learning and expanding my knowledge on SQL, ReactJS, Dot NetFramework, HTML, CSS, GoLang, Rust, Elixir, C and Javascript</li>
   <li>🛠️ I'm interested in Software Development, specifically web and app development for all platforms</li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" />Most Proficient At: Python, Bash Scripting and OOP in Java, HTML, CSS, Javascript along with frameworks like React and React Native.</li>
   <li>👾 Explore my GitHub repositories to discover a collection of projects that showcase my skills and passion</li>
