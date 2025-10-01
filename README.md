@@ -9,7 +9,7 @@ I am a passionate Computer Science Student with a love for designing new and ori
 <ul>
   <li>🧠 I'm currently learning and expanding my knowledge on SQL, ReactJS, Dot NetFramework, HTML, CSS, GoLang, Rust, Elixir, C and Javascript</li>
   <li>🛠️ I'm interested in Software Development, specifically web and app development for all platforms</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" />Most Proficient At: Python, Bash Scripting and OOP in Java, HTML, CSS, Javascript along with frameworks like React and React Native.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="20" height="20" />Proficient At: Python, Bash Scripting and OOP in Java, HTML, CSS, Javascript along with frameworks like React Native.</li>
   <li>👾 Explore my GitHub repositories to discover a collection of projects that showcase my skills and passion</li>
   <li>📚 I believe in the power of continuous learning. My GitHub is not just a portfolio but a living document of my journey</li>
   <li>🤝 I'm always open to collaboration and welcome opportunities to work with like-minded individuals. If you have a project or idea that aligns with my interests, let's connect and explore the possibilities together!</li>
