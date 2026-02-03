@@ -5,7 +5,6 @@ I am an aspiring **Systems Engineer** and a **Computer Science student at Toront
 ---
 
 ### 📊 GitHub Statistics
-[![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=juderozario)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juderozario08&show_icons=true&theme=tokyonight&count_private=true" alt="Jude's GitHub Stats" />
   <br>
