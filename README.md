@@ -1,6 +1,6 @@
 ### Hi, I'm Jude! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 
-I am a **Systems Engineer** and **Computer Science student** at Toronto Metropolitan University with a **4.00/4.33 GPA**. My work lives where high-level logic meets low-level performance. I am currently deep-diving into **Editor Engines**, **Robotics**, and the application of **Generative AI** in systems verification.
+I am a **Systems Engineer** and **Computer Science student** at Toronto Metropolitan University with a **4.00/4.33 GPA**. I build software where high-level logic meets low-level performance. My focus is on engineering robust engines, exploring robotics, and leveraging Generative AI for systems verification.
 
 ---
 
@@ -13,56 +13,52 @@ I am a **Systems Engineer** and **Computer Science student** at Toronto Metropol
 
 ---
 
-### 🚀 Current Deep Dive: The Custom Editor Engine
-I am currently engineering a **Blip text editor and rendering engine from scratch for unix systems** using **C++** and **SDL2**. 
-
-Instead of relying on existing UI kits, I am building the engine architecture to understand the full stack of modern text editing:
-* **Custom Rendering Engine:** Using SDL2 to manage raw hardware-accelerated rendering, handling text shaping, and custom font rasterization.
-* **Data Structures:** Implementing a **Piece Table** to manage document state, allowing for $O(1)$ insertions and deletions and an efficient undo/redo system regardless of file size.
-* **System Integration:** Writing platform-specific file system watchers using **Kqueue** (macOS) and **Inotify** (Linux) for real-time performance.
-* **Modality:** Designing a Vim-inspired modal editing system and a custom LSP client for intelligent code assistance.
+### 🛠️ Technical Toolkit
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,py,java,cs,js,ts,lua,postgres,mongodb,react,dotnet,bash,linux,apple,windows,azure,git" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🚀 Current Deep Dive: Custom Editor Engine
+I am currently engineering a **cross-platform rendering engine and text editor from scratch** using **C++** and **SDL2**. This project is an exploration of manual memory management and high-performance systems architecture:
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C++, Golang, Rust, C, Python, Java, C#, SQL, JavaScript, TypeScript, Lua |
-| **Systems & OS** | Linux (Arch Linux), macOS (Darwin), Windows, Unix |
-| **Backend/Infrastructure** | .NET, ASP.NET Core, Express, MongoDB, Azure, GitHub Actions (CI/CD) |
-| **Frontend/Mobile** | React Native, Bootstrap 5, Tailwind CSS |
-| **Tools** | Neovim (Custom Lua Configuration), Git, Shell Scripting, SDL2 |
+* **Engine Core:** Building a hardware-accelerated rendering engine from the ground up, managing raw input loops and custom font rasterization with SDL2.
+* **Piece Table Implementation:** Managing document state with a Piece Table data structure to ensure $O(1)$ edit operations and efficient undo/redo systems, regardless of file size.
+* **Platform Integration:** Implementing real-time file system monitoring using **Kqueue** (macOS/Darwin) and **Inotify** (Linux).
+* **Modal Editing:** Designing a Vim-inspired modal editing system and integrating a custom LSP client for intelligent code assistance.
 
 ---
 
 ### 👾 Featured Projects
 
-#### 🧮 [Truth Table Simulator]
+#### 🧮 Truth Table Simulator
 * **Language:** Go
 * Built a Boolean algebra simulator with a custom-built lexer and recursive-descent parser.
 * Utilizes Abstract Syntax Trees (AST) to evaluate complex logical functions and generate equivalence proofs.
 
-#### 🦀 [Boggle Solver]
+#### 🦀 Boggle Solver
 * **Language:** Rust
 * Developed a high-performance solver utilizing Depth-First Search (DFS) and memory-safe lookup tables.
-* Focused on Rust’s zero-cost abstractions to achieve near-instantaneous grid solving.
+* Leverages Rust’s zero-cost abstractions to achieve near-instantaneous solving on dynamic grids.
 
-#### 📝 [JSON Parser]
+#### 📝 JSON Parser
 * **Language:** Go
-* A ground-up implementation of a JSON parser to handle complex nested structures, maps, and interfaces.
-* Prioritizes robust error handling and precise validation of data types.
+* A ground-up implementation of a JSON parser designed to handle complex nested structures, maps, and interfaces.
+* Prioritizes robust error handling and precise data type validation.
 
-#### 📅 [Google Scheduler]
+#### 📅 Google Scheduler
 * **Language:** Python
 * Created a computer vision pipeline using OCR to parse unstructured scheduling data from images and sync it directly to the Google Calendar API.
 
 ---
 
-### 💼 Professional Snapshot
-* **Solutions Developer @ PHRI:** Managed critical migrations and resolved stability issues in production environments for clinical research systems.
+### 💼 Experience & Leadership
+* **Solutions Developer @ PHRI:** Focused on production stability and system-level verification, resolving 15+ critical bugs and leading the migration of legacy apps to modern UI frameworks.
 * **Lead Programmer @ Neil McNeil Robotics:** Engineered autonomous navigation systems and sensor integration for competitive robotics.
-* **Academic:** Consistent **Dean’s List** member and recipient of the Academic Entrance Scholarship.
+* **VP Finance @ PACS:** Directed financial planning and budgeting for the Practical Applications of Computer Science student organization.
 
 ---
 
