@@ -1,6 +1,6 @@
 ### Hi, I'm Jude! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 
-I am a **Systems Engineer** and **Computer Science student** at Toronto Metropolitan University with a **4.00/4.33 GPA**. I build software where high-level logic meets low-level performance. My focus is on engineering robust engines, exploring robotics, and leveraging Generative AI for systems verification.
+I am a **Systems Engineer** and **Computer Science student** at Toronto Metropolitan University. I build software where high-level logic meets low-level performance. My focus is on engineering robust engines, exploring robotics, and leveraging Generative AI for systems verification.
 
 ---
 
@@ -16,7 +16,7 @@ I am a **Systems Engineer** and **Computer Science student** at Toronto Metropol
 ### 🛠️ Technical Toolkit
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,py,java,cs,js,ts,lua,postgres,mongodb,react,dotnet,bash,linux,apple,windows,azure,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,py,java,cs,js,ts,lua,mongodb,react,dotnet,bash,linux,apple,windows,azure,git" />
   </a>
 </p>
 
