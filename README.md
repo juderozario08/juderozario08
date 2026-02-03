@@ -1,6 +1,6 @@
 ### Hi, I'm Jude! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 
-I am a **Systems Engineer** and **Computer Science student** at Toronto Metropolitan University. I build software where high-level logic meets low-level performance. My focus is on engineering robust engines, exploring robotics, and leveraging Generative AI for systems verification.
+I am a **Software Engineer** and **Computer Science student** at Toronto Metropolitan University. I am a versatile developer who thrives at the intersection of high-level application architecture and low-level system performance. My expertise spans the entire **Full-Stack** spectrum—from crafting responsive mobile interfaces to engineering high-performance hardware-accelerated engines from scratch.
 
 ---
 
