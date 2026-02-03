@@ -5,6 +5,7 @@ I am an aspiring **Systems Engineer** and a **Computer Science student at Toront
 ---
 
 ### 📊 GitHub Statistics
+[![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=juderozario)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juderozario08&show_icons=true&theme=tokyonight&count_private=true" alt="Jude's GitHub Stats" />
   <br>
@@ -34,29 +35,29 @@ I am an aspiring **Systems Engineer** and a **Computer Science student at Toront
 
 ### 👾 Featured Projects
 
-#### 🖋️ [Custom Text Editor] (Active Development)
-* **Stack:** Go, SDL2
+#### 🖋️ Blip Text Editor (Active Development)
+* **Stack:** CPP, SDL2
 * Built a custom rendering engine using SDL2 to handle text display and window management.
 * Implementing **Vim-style modal editing** and a **Piece Table** data structure to handle large files with minimal memory overhead.
 * Developing cross-platform support for Linux (Inotify) and macOS (Kqueue) for real-time file system monitoring.
 
-#### 🧮 [Truth Table Simulator]
+#### 🧮 Truth Table Simulator
 * **Stack:** Go
 * Developed a Boolean algebra simulator from the ground up, featuring a custom lexer and parser.
 * Constructed an Abstract Syntax Tree (AST) to evaluate complex logical functions and automatically generate truth tables.
 * Applied bitwise operations and advanced control structures to ensure high-speed logical checking.
 
-#### 🦀 [Boggle Solver]
+#### 🦀 Boggle Solver
 * **Stack:** Rust
 * Implemented a high-performance solver for the game Boggle using a Depth-First Search (DFS) algorithm.
 * Optimized word lookup by utilizing HashMaps and precomputed character positions, showcasing Rust's memory safety and speed.
 
-#### 📝 [JSON Parser]
+#### 📝 JSON Parser
 * **Stack:** Go
 * Built a recursive-descent parser to convert JSON strings into Go data structures (maps, slices, interfaces).
 * Focused on precise error handling and robust validation logic to handle malformed inputs.
 
-#### 📅 [Google Scheduler]
+#### 📅 Google Scheduler
 * **Stack:** Python, Google Calendar API
 * Created a computer vision pipeline that uses OCR to extract scheduling data from images.
 * Automated the process of event creation, significantly reducing the manual effort of managing academic schedules.
