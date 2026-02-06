@@ -9,7 +9,8 @@ I am a **Software Engineer** and **Computer Science student** at Toronto Metropo
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juderozario08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
-
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=juderozario08)
+![github-stars](https://stats.hyo.dev/api/github-trophies?login=hyochan)
 ---
 
 ### 🛠️ Technical Toolkit
