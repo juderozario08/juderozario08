@@ -2,13 +2,13 @@
 
 I am a **Software Engineer** and **Computer Science student** at Toronto Metropolitan University. I am a versatile developer who thrives at the intersection of high-level application architecture and low-level system performance. My expertise spans the entire **Full-Stack** spectrum—from crafting responsive mobile interfaces to engineering high-performance hardware-accelerated engines from scratch.
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=juderozario08&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=juderozario08&show_icons=true&theme=tokyonight&hide=css,shell,makefile)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 
 ---
 ### 📊 GitHub Activity & Statistics
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=juderozario08)
-![github-stars](https://stats.hyo.dev/api/github-trophies?login=juderozario08)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=juderozario08&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<br>
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=juderozario08&show_icons=true&theme=tokyonight&hide=css,shell,makefile)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ---
 
 ### 🛠️ Technical Toolkit
