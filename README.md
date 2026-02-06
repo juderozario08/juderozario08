@@ -6,7 +6,7 @@ I am a **Software Engineer** and **Computer Science student** at Toronto Metropo
 
 ### 📊 GitHub Activity & Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juderozario08&show_icons=true&theme=tokyonight&count_private=true" alt="Jude's GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=juderozario08&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juderozario08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
