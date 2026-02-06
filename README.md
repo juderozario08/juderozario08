@@ -3,10 +3,9 @@
 I am a **Software Engineer** and **Computer Science student** at Toronto Metropolitan University. I am a versatile developer who thrives at the intersection of high-level application architecture and low-level system performance. My expertise spans the entire **Full-Stack** spectrum—from crafting responsive mobile interfaces to engineering high-performance hardware-accelerated engines from scratch.
 
 ---
-
 ### 📊 GitHub Activity & Statistics
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=juderozario08&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+  <a href="https://github.com/hyochan/github-stats"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=juderozario08" alt="Github Stats Advanced" /></a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juderozario08&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
