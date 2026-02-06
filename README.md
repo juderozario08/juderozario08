@@ -13,7 +13,7 @@ I am a **Software Engineer** and **Computer Science student** at Toronto Metropo
 ---
 
 ### 🛠️ Technical Toolkit
-<p align="center">
+<p align="center" style="display: flex; flex-direction: column;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,py,java,cs,js,ts,lua,mongodb,react,dotnet,bash,linux,apple,windows,azure,git" />
   </a>
