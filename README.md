@@ -12,8 +12,8 @@ I am a **Software Engineer** and **Computer Science student** at Toronto Metropo
 <div align="center">
   <a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=juderozario08&show_icons=true&theme=tokyonight&hide=css,shell,makefile&layout=compact"/></a>
 </div>
----
 
+---
 ### 🛠️ Technical Toolkit
 <p align="center" style="display: flex; flex-direction: column;">
   <a href="https://skillicons.dev">
