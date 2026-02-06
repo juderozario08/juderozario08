@@ -7,7 +7,6 @@ I am a **Software Engineer** and **Computer Science student** at Toronto Metropo
 ---
 ### 📊 GitHub Activity & Statistics
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=juderozario08&show_icons=true&theme=tokyonight)](https://github.com/pranesh-2005/github-readme-stats-fast)
-<br>
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=juderozario08&show_icons=true&theme=tokyonight&hide=css,shell,makefile&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ---
 
