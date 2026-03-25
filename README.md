@@ -70,5 +70,3 @@ I am currently engineering a **cross-platform rendering engine and text editor f
 * **LinkedIn:** [linkedin.com/in/jude-a-rozario](https://www.linkedin.com/in/jude-a-rozario)
 * **Email:** [juderzro08@gmail.com](mailto:juderzro08@gmail.com)
 * **Portfolio:** [juderozario08.github.io](https://github.com/juderozario08)
-
-*"The best way to predict the future is to code it."* 🌟
