@@ -35,24 +35,37 @@ I am currently engineering a **cross-platform rendering engine and text editor f
 
 ### 👾 Featured Projects
 
+#### ⌨️ Blip - Production-Grade Text Editor
+* **Language:** C++, SDL2, CMake
+* Built a modular, immediate-mode GUI text editor from scratch, enforcing strict separation of concerns across the text rendering pipeline, platform-agnostic event routing system, and OS-specific abstraction layers to enable independent development.
+* Designed and implemented a custom Piece Table data structure achieving O(1) amortized text insertion and deletion across arbitrarily large buffers, with a fully correct undo/redo stack that cleanly handles interleaved edits, cursor state, and memory reclamation.
+* Engineered a high-efficiency, near 0% idle CPU event loop backed by a custom cross-platform filesystem watcher, enabling instant hot-reloading of editor configuration at runtime without process restarts.
+* Built a cross-platform font management engine integrating Fontconfig (Linux) and CoreText (macOS) via direct low-level C API bindings for dynamic font discovery and rendering.
+* Actively integrating Tree-sitter to construct and traverse Abstract Syntax Trees (ASTs) in real time, enabling precise, language-aware semantic syntax highlighting.
+
+#### 📱 Radius - Cross-Platform Mobile App
+* **Language:** React Native, Go, PostgreSQL
+* Architecting a cross-platform inventory management system utilizing a React Native frontend and a high-concurrency Go (Gin) backend API to handle rapid, real-time stock queries.
+* Designing a custom, zero-dependency authentication pipeline implementing Bcrypt password hashing and JWT-based role-based access control (RBAC) to securely manage retail associate and manager permissions.
+* Establishing a serverless CI/CD deployment pipeline utilizing Render for the Go backend and Neon.tech for the PostgreSQL database to ensure scalable, cloud-native hosting.
+* Currently Integrating: Native camera APIs and Google MLKit to achieve real-time, on-device barcode scanning, replacing traditional, expensive RF hardware.
+
 #### 🧮 Truth Table Simulator
 * **Language:** Go
-* Built a Boolean algebra simulator with a custom-built lexer and recursive-descent parser.
-* Utilizes Abstract Syntax Trees (AST) to evaluate complex logical functions and generate equivalence proofs.
+* Developed a Boolean algebra simulator using AST construction and equivalence-checking algorithms to process complex expressions and automatically generate truth tables from user input.
 
 #### 🦀 Boggle Solver
 * **Language:** Rust
-* Developed a high-performance solver utilizing Depth-First Search (DFS) and memory-safe lookup tables.
-* Leverages Rust’s zero-cost abstractions to achieve near-instantaneous solving on dynamic grids.
+* Implemented a high-performance Boggle solver in Rust using Depth-First Search (DFS) with optimized hash-map lookups for memory-safe, fast grid traversal across all valid word paths.
 
 #### 📝 JSON Parser
 * **Language:** Go
-* A ground-up implementation of a JSON parser designed to handle complex nested structures, maps, and interfaces.
-* Prioritizes robust error handling and precise data type validation.
+* Built a custom JSON parser using recursion and stacks to convert raw JSON strings into strongly typed Go structures (maps, structs, interfaces), with robust validation and precise error handling.
 
-#### 📅 Google Scheduler
+#### 📅 Automated Scheduling Pipeline
 * **Language:** Python
-* Created a computer vision pipeline using OCR to parse unstructured scheduling data from images and sync it directly to the Google Calendar API.
+* Built an automated scheduling pipeline in Python that parsed unstructured data into validated Google Calendar API events, implementing systematic data validation for accuracy.
+
 
 ---
 
