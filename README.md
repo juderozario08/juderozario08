@@ -52,11 +52,6 @@ I am currently engineering a **cross-platform rendering engine and text editor f
 * Developed a Boolean algebra simulator leveraging AST construction and equivalence-checking algorithms.
 * Processes complex logical expressions to automatically generate accurate truth tables from raw user input.
 
-#### 🦀 Boggle Solver
-* **Tech:** Rust
-* Implemented a high-performance solver utilizing Depth-First Search (DFS) algorithms.
-* Leverages memory-safe hash-map lookups to achieve rapid, optimal grid traversal across all valid word paths.
-
 #### 📝 JSON Parser
 * **Tech:** Go
 * Built a ground-up parser utilizing recursion and stacks to convert raw JSON strings into strongly typed Go maps and structs.
